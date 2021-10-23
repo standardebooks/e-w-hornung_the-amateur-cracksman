@@ -71,9 +71,6 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ambrose_McEvoy</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr91034892</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Judith Boss</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Boss, Judith</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber">Judith Boss</dc:contributor>
 		<meta property="file-as" refines="#transcriber">Boss, Judith</meta>
 		<meta property="role" refines="#transcriber" scheme="marc:relators">trc</meta>
