@@ -46,7 +46,7 @@
 		<meta id="collection-1" property="belongs-to-collection">A. J. Raffles</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<meta id="collection-2" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<dc:description id="description">A British cricketer and his friend steal valuables in this first collection of A. J. Raffles short stories.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
