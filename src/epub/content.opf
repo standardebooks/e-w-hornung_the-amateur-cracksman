@@ -46,6 +46,8 @@
 		<meta id="collection-1" property="belongs-to-collection">A. J. Raffles</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
+		<meta id="collection-2" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
 		<dc:description id="description">A British cricketer and his friend steal valuables in this first collection of A. J. Raffles short stories.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/a-j-raffles"&gt;&lt;abbr&gt;A. J.&lt;/abbr&gt; Raffles&lt;/a&gt; and his friend “Bunny” Manders are the quintessential rich young socialites; but behind the high-living façade, they’ve exhausted their funds. There’s only one way to pay the bills: a secret double-life as criminals.&lt;/p&gt;
